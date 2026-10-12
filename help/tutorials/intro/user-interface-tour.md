@@ -8,7 +8,7 @@ last-substantial-update: 2023-10-11T00:00:00.000Z
 jira: KT-14137
 thumbnail: 3424851.jpeg
 exl-id: a5bae676-2af6-42aa-9cea-49019bf34734
-TQID: https://experienceleague.adobe.com/68YgiCIwz-u-m-xZzH-MQv5Mmw2u90Ycb81MGmt-RYo
+TQID: 'https://experienceleague.adobe.com/68YgiCIwz-u-m-xZzH-MQv5Mmw2u90Ycb81MGmt-RYo'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
     internal-label: Mix Modeler
@@ -17,11 +17,13 @@ feature_v2:
     internal-label: Datasets
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
     internal-label: Models
+  - id: a567f0f7-0057-4079-8ded-5b24cc25af15
+    internal-label: Harmonized data
 subfeature_v2:
   - id: a9505d76-24a1-4ffe-bd01-6ac32d5af453
     internal-label: Model insights
   - id: ba4fd72c-282e-4fb6-abc1-08e6fb87b2ad
-    internal-label: Dataset Rules
+    internal-label: Dataset rules
   - id: bc2f5225-03d4-4bc8-89ec-99d78c30e6dd
     internal-label: Conversions
   - id: ee1bf083-e090-4def-936b-c111d29f42d0
