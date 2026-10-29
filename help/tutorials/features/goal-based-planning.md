@@ -1,15 +1,18 @@
 ---
 title: Goal-Based Planning
-description: Learn how to use goal-based planning in Mix Modeler.
+description: Learn how to use goal-based planning in Marketing Campaign Analytics.
 role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
 jira: KT-20157
 exl-id: aa5297d9-e1fa-4303-b645-22f3c964279e
-TQID: https://experienceleague.adobe.com/fmoMWO-jkQLPTd-BkcG7d2xN8yHrAy5rHHutDjJMvwU
+TQID: 'https://experienceleague.adobe.com/EJBM81nWeoM2xpNx3rH64YO6pysUk6g8ig2nXjbwfKQ'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
-    internal-label: Mix Modeler
+    internal-label: Marketing Campaign Analytics
+feature_v2:
+  - id: d822825b-9821-40d5-9b0d-42a9e3f317c5
+    internal-label: Plans
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -25,6 +28,12 @@ level_v2:
 ---
 # Goal-based planning
 
-With the goal-based planning feature in Mix Modeler, you can plan from your business goals and not just your budget. You can confidently allocate your budgets efficiently across channels and campaigns to achieve your goals with the maximum ROI. For more information, see [Plans](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"} in the Mix Modeler documentation.
+>[!BEGINSHADEBOX]
+
+**Adobe Marketing Campaign Analytics** is the evolution and rebranding of **Adobe Marketing Campaign Analytics**. Some of the Experience League content might still refer to Mix Modeler instead of Marketing Campaign Analytics.
+
+>[!ENDSHADEBOX]
+
+With the goal-based planning feature in Marketing Campaign Analytics, you can plan from your business goals and not just your budget. You can confidently allocate your budgets efficiently across channels and campaigns to achieve your goals with the maximum ROI. For more information, see [Plans](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"} in the Marketing Campaign Analytics documentation.
 
 >[!SLIDE](goal-based-planning)

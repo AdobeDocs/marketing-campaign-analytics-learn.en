@@ -1,6 +1,6 @@
 ---
 title: User Workflow
-description: Learn the workflow of Mix Modeler.
+description: Learn the workflow of Marketing Campaign Analytics.
 role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
@@ -8,10 +8,10 @@ last-substantial-update: 2023-10-11T00:00:00.000Z
 jira: KT-14136
 thumbnail: 3424854.jpeg
 exl-id: e8fd46e8-b750-4057-b061-29e2a50bbfa1
-TQID: https://experienceleague.adobe.com/85ALl3pGyvAj0SRRFXdCVExs11yonz0ml8yAI4k-1o8
+TQID: 'https://experienceleague.adobe.com/I75mehzHwAq9Q0IH7yoWRg44tqJxpxVRXjE3eO0qSc0'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
-    internal-label: Mix Modeler
+    internal-label: Marketing Campaign Analytics
 feature_v2:
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
     internal-label: Models
@@ -37,6 +37,12 @@ topic_v2:
 ---
 # User Workflow
 
-Learn the workflow of Mix Modeler. For additional information, see the [Mix Modeler workflow](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow) documentation.
+>[!BEGINSHADEBOX]
+
+**Adobe Marketing Campaign Analytics** is the evolution and rebranding of **Adobe Marketing Campaign Analytics**. Some of the Experience League content might still refer to Mix Modeler instead of Marketing Campaign Analytics.
+
+>[!ENDSHADEBOX]
+
+Learn the workflow of Marketing Campaign Analytics. For additional information, see the [Marketing Campaign Analytics workflow](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow) documentation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
