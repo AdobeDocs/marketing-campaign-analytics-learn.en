@@ -19,6 +19,12 @@ topic_v2:
 ---
 # Marketing Campaign Analytics Tutorials
 
+>[!BEGINSHADEBOX]
+
+**Adobe Marketing Campaign Analytics** is the evolution and rebranding of **Adobe Marketing Campaign Analytics**. Some of the Experience League content might still refer to Mix Modeler instead of Marketing Campaign Analytics.
+
+>[!ENDSHADEBOX]
+
 Learn about Adobe Marketing Campaign Analytics from these videos and tutorials.
 
 Adobe Marketing Campaign Analytics helps organizations measure, optimize, and plan marketing investments by applying machine learning models that provide insights on the historic and future impact of marketing investments on key business goals. 

@@ -54,6 +54,12 @@ topic_v2:
 ---
 # User Interface Tour
 
+>[!BEGINSHADEBOX]
+
+**Adobe Marketing Campaign Analytics** is the evolution and rebranding of **Adobe Marketing Campaign Analytics**. Some of the Experience League content might still refer to Mix Modeler instead of Marketing Campaign Analytics.
+
+>[!ENDSHADEBOX]
+
 See the key features of Marketing Campaign Analytics in the user interface. For additional information, see the [Adobe Marketing Campaign Analytics guide](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)

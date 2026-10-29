@@ -31,6 +31,12 @@ topic_v2:
 ---
 # Model drift detection
 
+>[!BEGINSHADEBOX]
+
+**Adobe Marketing Campaign Analytics** is the evolution and rebranding of **Adobe Marketing Campaign Analytics**. Some of the Experience League content might still refer to Mix Modeler instead of Marketing Campaign Analytics.
+
+>[!ENDSHADEBOX]
+
 With Marketing Campaign Analytics's model drift detection feature, changes in model performance are automatically detected and users are notified. They can take immediate action to return the model to optimal performance. For more information, see [Model drift](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in the Marketing Campaign Analytics documentation.
 
 >[!SLIDE](model-drift-detection)

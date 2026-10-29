@@ -37,6 +37,12 @@ topic_v2:
 ---
 # User Workflow
 
+>[!BEGINSHADEBOX]
+
+**Adobe Marketing Campaign Analytics** is the evolution and rebranding of **Adobe Marketing Campaign Analytics**. Some of the Experience League content might still refer to Mix Modeler instead of Marketing Campaign Analytics.
+
+>[!ENDSHADEBOX]
+
 Learn the workflow of Marketing Campaign Analytics. For additional information, see the [Marketing Campaign Analytics workflow](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow) documentation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)

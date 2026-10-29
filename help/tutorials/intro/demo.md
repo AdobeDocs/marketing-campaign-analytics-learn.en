@@ -58,6 +58,12 @@ topic_v2:
 ---
 # Marketing Campaign Analytics end-to-end demo
 
+>[!BEGINSHADEBOX]
+
+**Adobe Marketing Campaign Analytics** is the evolution and rebranding of **Adobe Marketing Campaign Analytics**. Some of the Experience League content might still refer to Mix Modeler instead of Marketing Campaign Analytics.
+
+>[!ENDSHADEBOX]
+
 See an end-to-end demo of Adobe Marketing Campaign Analytics. For additional information, see the [Marketing Campaign Analytics documentation](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
