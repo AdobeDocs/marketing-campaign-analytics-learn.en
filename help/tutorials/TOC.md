@@ -1,16 +1,16 @@
 ---
-user-guide-title: Mix Modeler Tutorials
-breadcrumb-title: Mix Modeler Tutorials
-user-guide-description: A collection of videos and tutorials for Adobe Mix Modeler.
+user-guide-title: Marketing Campaign Analytics Tutorials
+breadcrumb-title: Marketing Campaign Analytics Tutorials
+user-guide-description: A collection of videos and tutorials for Adobe Marketing Campaign Analytics.
 audience: all
 doc-type: video
 auto-video-transcripts: true
 ---
 
-# Adobe Mix Modeler Tutorials {#tutorials}
+# Adobe Marketing Campaign Analytics Tutorials {#tutorials}
 
-+ [Mix Modeler Tutorials](/help/tutorials/overview.md)
-+ Introduction to Mix Modeler {#intro}
++ [Marketing Campaign Analytics Tutorials](/help/tutorials/overview.md)
++ Introduction to Marketing Campaign Analytics {#intro}
   + [User workflow](/help/tutorials/intro/user-workflow.md)
   + [End-to-end demo](/help/tutorials/intro/demo.md)
   + [User interface tour](/help/tutorials/intro/user-interface-tour.md)

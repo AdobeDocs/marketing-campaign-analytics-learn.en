@@ -1,6 +1,6 @@
 ---
 title: User Interface Tour
-description: See the key features of Mix Modeler in the user interface.
+description: See the key features of Marketing Campaign Analytics in the user interface.
 role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
@@ -8,17 +8,17 @@ last-substantial-update: 2023-10-11T00:00:00.000Z
 jira: KT-14137
 thumbnail: 3424851.jpeg
 exl-id: a5bae676-2af6-42aa-9cea-49019bf34734
-TQID: 'https://experienceleague.adobe.com/68YgiCIwz-u-m-xZzH-MQv5Mmw2u90Ycb81MGmt-RYo'
+TQID: 'https://experienceleague.adobe.com/-jdetlFL9dgINVYUHtNAFVEH0QjQRg-NFwg4g3ZZdV0'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
-    internal-label: Mix Modeler
+    internal-label: Marketing Campaign Analytics
 feature_v2:
+  - id: a567f0f7-0057-4079-8ded-5b24cc25af15
+    internal-label: Harmonized data
   - id: e0abf868-dae2-4c1c-83e9-b21799232845
     internal-label: Datasets
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
     internal-label: Models
-  - id: a567f0f7-0057-4079-8ded-5b24cc25af15
-    internal-label: Harmonized data
 subfeature_v2:
   - id: a9505d76-24a1-4ffe-bd01-6ac32d5af453
     internal-label: Model insights
@@ -54,6 +54,6 @@ topic_v2:
 ---
 # User Interface Tour
 
-See the key features of Mix Modeler in the user interface. For additional information, see the [Adobe Mix Modeler guide](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
+See the key features of Marketing Campaign Analytics in the user interface. For additional information, see the [Adobe Marketing Campaign Analytics guide](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)

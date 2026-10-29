@@ -1,13 +1,13 @@
 ---
-title: Mix Modeler videos and tutorials
-description: A collection of videos and tutorials for Adobe Mix Modeler.
+title: Marketing Campaign Analytics videos and tutorials
+description: A collection of videos and tutorials for Adobe Marketing Campaign Analytics.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-TQID: https://experienceleague.adobe.com/FWQ4ob4bYY75UfFmRFj7q-P5zX6k7d8jH5BV6C76HEU
+TQID: 'https://experienceleague.adobe.com/u-cvOylzy9JlmaXEA6Blw4fr-WfpKrmJB7oK70Lp3AY'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
-    internal-label: Mix Modeler
+    internal-label: Marketing Campaign Analytics
 feature_v2:
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
     internal-label: Models
@@ -17,11 +17,11 @@ topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
     internal-label: Machine learning
 ---
-# Mix Modeler Tutorials
+# Marketing Campaign Analytics Tutorials
 
-Learn about Adobe Mix Modeler from these videos and tutorials.
+Learn about Adobe Marketing Campaign Analytics from these videos and tutorials.
 
-Adobe Mix Modeler helps organizations measure, optimize, and plan marketing investments by applying machine learning models that provide insights on the historic and future impact of marketing investments on key business goals. 
+Adobe Marketing Campaign Analytics helps organizations measure, optimize, and plan marketing investments by applying machine learning models that provide insights on the historic and future impact of marketing investments on key business goals. 
 
 
 <div id="recs-overview-body-1"></div>
@@ -46,7 +46,7 @@ Adobe Mix Modeler helps organizations measure, optimize, and plan marketing inve
     </a>
     </div>
     <p>
-    <em>See an end-to-end demo of Adobe Mix Modeler</em>
+    <em>See an end-to-end demo of Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
   <td>
@@ -59,7 +59,7 @@ Adobe Mix Modeler helps organizations measure, optimize, and plan marketing inve
     </a>
     </div>
     <p>
-    <em>Learn the key user interface components of Adobe Mix Modeler</em>
+    <em>Learn the key user interface components of Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
   <td>
@@ -72,7 +72,7 @@ Adobe Mix Modeler helps organizations measure, optimize, and plan marketing inve
     </a>
     </div>
     <p>
-    <em>Learn about the user workflow in Adobe Mix Modeler</em>
+    <em>Learn about the user workflow in Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
 </tr>

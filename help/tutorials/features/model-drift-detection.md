@@ -1,15 +1,15 @@
 ---
 title: Model Drift Detection
-description: Learn about the model drift detection in Mix Modeler.
+description: Learn about the model drift detection in Marketing Campaign Analytics.
 role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
 jira: KT-20158
 exl-id: 32962f4b-c506-403e-8bb2-45ebba22429c
-TQID: https://experienceleague.adobe.com/0DiHQMueBl0Ymh1QFyo32IzWVzTzxz1lEcmhyBXbhes
+TQID: 'https://experienceleague.adobe.com/KFOhdlK8KIeMKc-CLH22AIO16x2QW7OrGZLkzbmkWZ8'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
-    internal-label: Mix Modeler
+    internal-label: Marketing Campaign Analytics
 feature_v2:
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
     internal-label: Models
@@ -31,6 +31,6 @@ topic_v2:
 ---
 # Model drift detection
 
-With Mix Modeler's model drift detection feature, changes in model performance are automatically detected and users are notified. They can take immediate action to return the model to optimal performance. For more information, see [Model drift](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in the Mix Modeler documentation.
+With Marketing Campaign Analytics's model drift detection feature, changes in model performance are automatically detected and users are notified. They can take immediate action to return the model to optimal performance. For more information, see [Model drift](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in the Marketing Campaign Analytics documentation.
 
 >[!SLIDE](model-drift-detection)
