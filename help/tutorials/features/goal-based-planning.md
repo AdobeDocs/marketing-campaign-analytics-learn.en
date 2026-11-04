@@ -30,7 +30,7 @@ level_v2:
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics** is the evolution and rebranding of **Adobe Marketing Campaign Analytics**. Some of the Experience League content might still refer to Mix Modeler instead of Marketing Campaign Analytics.
+**Adobe Marketing Campaign Analytics** is the evolution and rebranding of **Adobe Mix Modeler**. Some of the Experience League content might still refer to Mix Modeler instead of Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
