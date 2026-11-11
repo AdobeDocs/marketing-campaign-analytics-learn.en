@@ -5,6 +5,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Marketing
 audience: all
 doc-type: video
 auto-video-transcripts: true
+nudge: true
 ---
 
 # Adobe Marketing Campaign Analytics Tutorials {#tutorials}
