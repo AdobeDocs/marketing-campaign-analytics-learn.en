@@ -8,6 +8,7 @@ type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketing-campaign-analytics-learn.en
 index: true
+nudge: all
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
     internal-label: Marketing Campaign Analytics
